@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app.1e2723c3.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cs/Linx/linxInstall.md","lastUpdated":1737364285000}'),n={name:"cs/Linx/linxInstall.md"};function s(r,c,o,l,i,p){return e(),a("div")}const m=t(n,[["render",s]]);export{_ as __pageData,m as default};
